@@ -8,7 +8,7 @@
 
 [![Download Kimiclou](https://img.shields.io/badge/Download-Kimiclou.exe-2ea043?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/AndreyVerse/Kimiclou/releases/latest/download/Kimiclou.exe)
 
-[![Version](https://img.shields.io/badge/version-1.7.0-4f86ff)](https://github.com/AndreyVerse/Kimiclou/releases)
+[![Version](https://img.shields.io/badge/version-1.7.1-4f86ff)](https://github.com/AndreyVerse/Kimiclou/releases)
 [![Tauri](https://img.shields.io/badge/Tauri-2-24C8DB?logo=tauri&logoColor=white)](https://tauri.app/)
 [![Svelte](https://img.shields.io/badge/Svelte-5-FF3E00?logo=svelte&logoColor=white)](https://svelte.dev/)
 [![Rust](https://img.shields.io/badge/Rust-stable-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
